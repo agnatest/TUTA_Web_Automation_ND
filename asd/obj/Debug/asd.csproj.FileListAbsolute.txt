@@ -1,0 +1,6 @@
+C:\Users\Agna\source\repos\TUTA_ConsoleApp\asd\bin\Debug\asd.exe.config
+C:\Users\Agna\source\repos\TUTA_ConsoleApp\asd\bin\Debug\asd.exe
+C:\Users\Agna\source\repos\TUTA_ConsoleApp\asd\bin\Debug\asd.pdb
+C:\Users\Agna\source\repos\TUTA_ConsoleApp\asd\obj\Debug\asd.csprojAssemblyReference.cache
+C:\Users\Agna\source\repos\TUTA_ConsoleApp\asd\obj\Debug\asd.exe
+C:\Users\Agna\source\repos\TUTA_ConsoleApp\asd\obj\Debug\asd.pdb
